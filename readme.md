@@ -42,7 +42,7 @@ This is a interactive front-end project inspired by **[SidCup Family Golf](https
 
 
 ##  Screenshots
-- ![Outlook](video/readmeVideo.gif)
+- ![Outlook](https://github.com/AshmitSherigar/SidCup_Family_Golf/blob/main/video/SFG-Website-Header-Video-0823.mp4)
 
 ##  Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and create a pull request.
