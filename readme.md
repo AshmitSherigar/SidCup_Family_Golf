@@ -1,6 +1,6 @@
 # SidCup Family Golf Website
 
-![Project Screenshot](link-to-screenshot.png)
+![Project Screenshot](readmePic.png)
 
 ##  Overview
 This is a interactive front-end project inspired by **[SidCup Family Golf](https://sidcupfamilygolf.com/)**. The website replicates its modern and engaging UI with multiple pages, smooth animations, and a dynamic scrolling experience. It showcases various facilities like the Toptracer range, adventure golf, and golf lessons.
